@@ -1,4 +1,4 @@
-# [![Gagan Puri header](https://raw.githubusercontent.com/puri-gagan/puri-gagan/main/static/Gagan%20Puri.png)](https://gaganpuri.com.np)
+<a href="gaganpuri.com.np" target="_blank"><img width="1000" align='center'  src="https://raw.githubusercontent.com/puri-gagan/puri-gagan/main/static/Gagan%20Puri.png" /></a>
 
 <!--
 **puri-gagan/puri-gagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
