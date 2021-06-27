@@ -1,4 +1,4 @@
-### Hi there 👋
+# [![Gagan Puri header](https://https://raw.githubusercontent.com/puri-gagan/puri-gagan/main/static/Gagan%20Puri.png)](https://gaganpuri.com.np)
 
 <!--
 **puri-gagan/puri-gagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
